@@ -1,0 +1,4 @@
+pwntools
+pyelftools
+termcolor
+openai
